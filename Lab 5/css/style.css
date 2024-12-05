@@ -1,0 +1,19 @@
+body{
+margin: 0px;
+    overflow-x: hidden;
+    background-color: aliceblue;
+}
+header{
+    background-color: black;
+    height: 13vw;
+    width: auto;
+}
+header > div > img{
+    height: 14vw;
+    width: auto;
+}
+header > nav > menu{
+    text-align: center;
+list-style: none;
+
+}
